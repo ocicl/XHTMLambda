@@ -5,6 +5,6 @@
 
 |---------+--------------------------------------------------------------|
 | source  | git:https://gitlab.common-lisp.net/xhtmlambda/XHTMLambda.git |
-| commit  | a39e6dc                                                      |
+| commit  | b48f655                                                      |
 | systems | xhtmlambda                                                   |
 |---------+--------------------------------------------------------------|
